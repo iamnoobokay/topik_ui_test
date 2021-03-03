@@ -1,0 +1,895 @@
+1614751119871	geckodriver	INFO	Listening on 127.0.0.1:49817
+1614751122929	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Pranav\\AppData\\Local\\Temp\\rust_mozprofilempRWZs"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614751128398	Marionette	INFO	Listening on port 49832
+1614751128697	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614751138519	Marionette	INFO	Stopped listening on port 49832
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614755719444	geckodriver	INFO	Listening on 127.0.0.1:50301
+1614755722484	mozrunner::runner	INFO	Running command: "C:\\P1614755723464	mozrunner::runner	INFO	Running command: "C:\\P1614755724485	mozrunner::runner	INFO	Running command: "C:\\P1614755725568	mozrunner::runner	INFO	Runniconsole.warn: SearchSettings: "get: No settings file exists,console.warn: SearchSettings: "get: No settings file exists,console.warn: SearchSettings: "get: No settings file exists,console.warn: SearchSettings: "get: No settings fileconsole.error: Region.jsm: "Error fetching region"JavaScript error: resource://activity-stream/lib/ASRouterNewTabHook.jsm, line 61: TypeError: this._router is null
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 573: uncaught exception: Object
+
+[Child 11752, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chro1614755753333	Marionette	INFO	Stop
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614755773605	geckodriver	INFO	Listening on 127.0.0.1:50623
+1614755776639	mozrunner::runner	INFO	Running command: "C:\\P1614755777630	mozrunner::runner	INFO	Running command: "C:\\P1614755778630	mozrunner::runner	INFO	Running command: "C:\\P1614755779652	mozrunner::runner	INFO	Runniconsole.warn: SearchSettings: "get: No settings file exists,console.warn: SearchSettings: "get: No settings file16147557console.warn: SearchSettings: "get: No settings file exists,console.warn: SearchSettings: "get: No settings file1614755795018	Marionette	INFO	Listening on port 50664
+161471614755797233	Marionette	INFO	Listening on port 50676
+1614755797384	Marionette	WA1614755800978	Marionette	INFO	Stopped listening on port 50661614755803513	Marionette	INFO	Stopped listening on port 50676
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+1614755846647	geckodriver	INFO	Listening on 127.0.0.1:50976
+1614755849682	mozrunner::runner	INFO	Running command: "C:\\P1614755850691	mozrunner::runner	INFO	Running command: "C:\\P1614755851698	mozrunner::runner	INFO	Running command: "C:\\P1614755852679	mozrunner::runner	INFO	Runniconsole.warn: SearchSettings: "get: No settings file exists,console.warn: SearchSettings: "get: No settings file exists,console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614755869531	Marionette	INFO	Listening on port 51020
+1614755869839	Marionette	WARN	
+###!!! [Child][RunMessage] Error: Channel closing: too 
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614755873538	Marionette	INFO	S
+###!!! [Child][RunMessage] Err
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ent returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1614755872876	Marionette	INFO	Stopped listening on port 51043
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614756019693	geckodriver	INFO	Listening on 127.0.0.1:51298
+1614756022722	mozrunner::runner	INFO	Running command: "C:\\P1614756023724	mozrunner::runner	INFO	Running command: "C:\\P1614756024741	mozrunner::runner	INFO	Running command: "C:\\P1614756025721	mozrunner::runner	INFO	Runniconsole.warn: SearchSettings: "get: No settings file exists,console.warn: SearchSettings: "get: No settings file exists,console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614756051239	Marionet1614756087019	Marionette	INFO	Stopped listening on port 5131
+###!!! [Child][RunMessage] Error: Channel closing: too lat1614756091721	Marionette	INFO	Stopped listening on port 51338
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+14756090805	Marionette	INFO	Stopped listening on port 51360
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614756096257	geckodriver	INFO	Listening on 127.0.0.1:51621
+1614756099304	mozrunner::runner	INFO	Running command: "C:\\P1614756100284	mozrunner::runner	INFO	Running command: "C:\\P1614756101268	mozrunner::runner	INFO	Running command: "C:\\P1614756102284	mozrunner::runner	INFO	Runniconsole.warn: SearchSettings: "get: No settings file exists,console.warn: SearchSettings: "get: No settings file exists,console.warn: SearchSettings: "get: No settings file16147561console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614756117956	Marionette	INFO	Listening on port 51675
+1614756118068	Marionette	WARN	
+###!!! [Child][RunMessage] Error: Channel closing: too 1614756122219	Marionette	INFO	Stopped listening on port 51675
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+14756122223	Marionette	INFO	Stopped listening on port 51684
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614756286267	geckodriver	INFO	Listening on 127.0.0.1:51967
+1614756289298	mozrunner::runner	INFO	Running command: "C:\\P1614756290300	mozrunner::runner	INFO	Running command: "C:\\P1614756291290	mozrunner::runner	INFO	Running command: "C:\\P1614756292301	mozrunner::runner	INFO	Runniconsole.warn: SearchSettings: "get: No settings file exists,console.warn: SearchSettings: "get: No settings file16147563console.warn: SearchSettings: "get: No settings file16147563console.warn: SearchSettings: "get: No settings161471614756310166	Marionet1614756317256	Marionette	INFO	Stopped listening on port 5198161
+###!!! [Child][RunMessage] Error: Channel closing: too lat
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+msgtype=0x3A011C,name=PContent::Msg_RecordDiscardedData) Channel closing: too late to send/recv, messages will be lost
+
+###!!! [Child][RunMessage
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614756356022	geckodriver	INFO	Listening on 127.0.0.1:52272
+1614756359057	mozrunner::runner	INFO	Running command: "C:\\P1614756360052	mozrunner::runner	INFO	Running command: "C:\\P1614756361039	mozrunner::runner	INFO	Running command: "C:\\P1614756362128	mozrunner::runner	INFO	Runniconsole.warn: SearchSettings: "get: No settings file exists,console.warn: SearchSettings: "get: No settings file16147563console.warn: SearchSettings: "get: No settings file exists,console.warn: SearchSettings: "get: No settings file1614756374333	Marionette	INFO	Listening on port 52conso161471614756378363	Marionette	INFO	Listening on port 52328
+1614756378926	Marionette	WA161
+###!!! [Child][RunMessage] Error: Channel closing: too 1614756382624	Marionette	INFO	Stopped listening on port 52328
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.table
+###!!! [Child][RunMessage
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614756395671	geckodriver	INFO	Listening on 127.0.0.1:52566
+1614756398699	mozrunner::runner	INFO	Running command: "C:\\P1614756399706	mozrunner::runner	INFO	Running command: "C:\\P1614756400703	mozrunner::runner	INFO	Running command: "C:\\P1614756401774	mozrunner::runner	INFO	Runniconsole.warn: SearchSettings: "get: No settings file exists,console.warn: SearchSettings: "get: No settings file16147564console.warn: SearchSettings: "get: No settings file exists,console.warn: SearchSettings: "get: No settings file1614756415024	Marionet1614756454824	Marionette	INFO	Stopped listening on port 52581614756455696	Marionette	INFO	Stopped listening on port 52591614756456619	Marionette	INFO	Stopped listening on port 52601614756457383	Marionette	INFO	Stopped listening on port 52619
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+to send/recv, messages will be lost
+
+1614756458268	Marionette	INFO	Stopped listening on port 52628
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614756487063	geckodriver	INFO	Listening on 127.0.0.1:52880
+1614756490103	mozrunner::runner	INFO	Running command: "C:\\P1614756491102	mozrunner::runner	INFO	Running command: "C:\\P1614756492083	mozrunner::runner	INFO	Running command: "C:\\P1614756493089	mozrunner::runner	INFO	Runniconsole.warn: SearchSettings: "get: No settings file exists,console.warn: SearchSettings: "get: No settings file16147564console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614756511903	Marionet1614756520277	Marionette	INFO	Stopped listening on port 52900
+
+###!!! [Child][RunMessage] Error: Channel closing: too 1614756524312	Marionette	INFO	Stopped listening on port 52920
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+14756523003	Marionette	INFO	Stopped listening on port 52942
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+s will be lost
+
+1614756521205	Marionette	INFO	Stopped listening on port 52910
+
+###!!! [Child][RunMessage] Error: Channel closing: too 
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614756522386	Marionette	INFO	Stopped listening on port 52933
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614756623827	geckodriver	INFO	Listening on 127.0.0.1:63419
+1614756626867	mozrunner::runner	INFO	Running command: "C:\\P1614756627847	mozrunner::runner	INFO	Running command: "C:\\P1614756628878	mozrunner::runner	INFO	Running command: "C:\\P1614756629846	mozrunner::runner	INFO	Runniconsole.warn: SearchSettings: "get: No settings file exists,console.warn: SearchSettings: "get: No settings file1614756641199	Marionette	INFO	Listening on port 63439
+1614716147566console.warn: SearchSettings: "get: No settings161471614756645693	Marionet1614756744014	Marionette	INFO	Stopped listening on port 6343161
+###!!! [Child][RunMessage] Error: Channel closing: too 1614756745818	Marionette	INFO	Stopped listening on port 63459
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+1614756747646	Marionette	INFO	Stopped listening on port 63479
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+topped listening on port 63469
+1614757092690	geckodriver	INFO	Listening on 127.0.0.1:63959
+1614757095745	mozrunner::runner	INFO	Running command: "C:\\P1614757096709	mozrunner::runner	INFO	Running command: "C:\\P1614757097711	mozrunner::runner	INFO	Running command: "C:\\P1614757098714	mozrunner::runner	INFO	Runniconsole.warn: SearchSettings: "get: No settings file exists,console.warn: SearchSettings: "get: No settings file16147571console.warn: SearchSettings: "get: No settings file exists,console.warn: SearchSettings: "get: No settings file exists, new profile?"1614757247935	Marionette	INFO	Stopped listening on port 6397[Parent 12960, IPC I/O Parent] WARNING: pipe error: 232: fil1614757252281	Marionette	INFO	Stopped listening on port 63991614757254229	Marionette	INFO	Stopped listening on port 64008
+e to send/recv, messages will be lost
+1614757253231	Marionette	INFO	Stopped listening on port 64021
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614757368564	geckodriver	INFO	Listening on 127.0.0.1:64333
+1614757371612	mozrunner::runner	INFO	Running command: "C:\\P1614757372577	mozrunner::runner	INFO	Running command: "C:\\P1614757373616	mozrunner::runner	INFO	Running command: "C:\\P1614757374689	mozrunner::runner	INFO	Runniconsole.warn: SearchSettings: "get: No settings file exists,console.warn: SearchSettings: "get: No settings file exists,console.warn: SearchSettings: "get: No settings file1614757388935	Marionette	INFO	Listening on port 64363
+161471614757389829	Marionet1614757415462	Marionette	INFO	Stopped listening on port 64351614757415984	Marionette	INFO	Stopped listening on port 64361614757416904	Marionette	INFO	Stopped listening on port 64371614757417751	Marionette	INFO	Stopped listening on port 64388
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 6112, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1614757418695	Marionette	INFO	Stopped listening on port 64399
+1614757426599	geckodriver	INFO	Listening on 127.0.0.1:64647
+1614757429621	mozrunner::runner	INFO	Running command: "C:\\P1614757430616	mozrunner::runner	INFO	Running command: "C:\\P1614757431633	mozrunner::runner	INFO	Running command: "C:\\P1614757432622	mozrunner::runner	INFO	Runniconsole.warn: SearchSettings: "get: No settings file exists,console.warn: SearchSettings: "get: No settings file exists,console.warn: SearchSettings: "get: No settings file16147574console.warn: SearchSettings: "get: No settings file1614757444694	Marionet1614757496588	Marionette	INFO	Stopped listening on port 6466
+###!!! [Child][RunMessage] Error: Channel closing: too lat1614757498558	Marionette	INFO	Stopped listening on port 64681614757499398	Marionette	INFO	Stopped listening on port 64700
+
+###!!! [Child][RunMessage] Error: Cha
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614757500344	Marionette	INFO	Stopped listening on port 64710
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614757501739	geckodriver	INFO	Listening on 127.0.0.1:64947
+1614757504795	mozrunner::runner	INFO	Running command: "C:\\P1614757505764	mozrunner::runner	INFO	Running command: "C:\\P1614757507103	mozrunner::runner	INFO	Running command: "C:\\P1614757507768	mozrunner::runner	INFO	Runniconsole.warn: SearchSettings: "get: No settings file exists,console.warn: SearchSettings: "get: No settings file exists,console.warn: SearchSettings: "get: No settings file16147575console.warn: SearchSettings: "get: No settings file1614757520299	Marionet
+###!!! [Child][RunMessage] Error: Channel closing: too lat1614757579151	Marionette	INFO	Stopped listening on port 6497161
+###!!! [Child][RunMessage] Error: Channel closing: too lat
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+1614757581487	Marionette	INFO	Stopped listening on port 65010
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+topped listening on port 65001
+, messages will be lost
+
+1614757578380	Marionette	INFO	Stopped listening on port 64968
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614757583145	geckodriver	INFO	Listening on 127.0.0.1:65284
+1614757586200	mozrunner::runner	INFO	Running command: "C:\\P1614757587154	mozrunner::runner	INFO	Running command: "C:\\P1614757588336	mozrunner::runner	INFO	Running command: "C:\\P1614757589208	mozrunner::runner	INFO	Runniconsole.warn: SearchSettings: "get: No settings file exists,console.warn: SearchSettings: "get: No settings file16147575console.warn: SearchSettings: "get: No settings file exists,console.warn: SearchSettings: "get: No settings file exists, new profile?"
+###!!! [Child][MessageChannel] Error1614757613936	Marionet1614757647810	Marionette	INFO	Stopped listening on port 65311614757649984	Marionette	INFO	Stopped listening on port 65321614757652830	Marionette	INFO	Stopped listening on port 65337
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+1614757658269	geckodriver	INFO	Listening on 127.0.0.1:49256
+1614757661317	mozrunner::runner	INFO	Running command: "C:\\P1614757662289	mozrunner::runner	INFO	Running command: "C:\\P1614757663302	mozrunner::runner	INFO	Running command: "C:\\P1614757664294	mozrunner::runner	INFO	Runniconsole.warn: SearchSettings: "get: No settings file exists,console.warn: SearchSettings: "get: No settings file16147576console.warn: SearchSettings: "get: No settings file16147576console.warn: SearchSettings: "get: No settings file exists, new profile?"1614757708528	Marionette	INFO	Stopped listening on port 49271614757715967	Marionette	INFO	Stopped listening on port 49287
+e to send/recv, messages will be lost
+
+rror: Region.jsm: "Failed to feconsole.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "reso1614757684787	Marionette	INFO	Listening on port 49305
+1614757685551	Marionette	WA1614757716802	Marionette	INFO	Stopped listening on port 49291614757717768	Marionette	INFO	Stopped listening on port 49305
+e to send/recv, messages will be lost
+1614757718765	Marionette	INFO	Stopped listening on port 49318
+1614757788876	geckodriver	INFO	Listening on 127.0.0.1:49653
+1614757791908	mozrunner::runner	INFO	Running command: "C:\\P1614757792900	mozrunner::runner	INFO	Running command: "C:\\P1614757793939	mozrunner::runner	INFO	Running command: "C:\\P1614757794952	mozrunner::runner	INFO	Runniconsole.warn: SearchSettings: "get: No settings file exists,console.warn: SearchSettings: "get: No settings file exists,console.warn: SearchSettings: "get: No settings file16147578console.warn: SearchSettings: "get: No settings161471614757808886	Marionet
+###!!! [Child][RunMessage] Error: Channel closing: too lat
+###!!! [Child][RunMessage] Error: Channel closing: too lat1614757891506	Marionette	INFO	Stopped listening on port 49700
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+1614757893387	Marionette	INFO	Stopped listening on port 49725
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+nnel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A00D5,name=PContent::Msg_ScriptErrorWithStack) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A00D5,name=PContent::Msg_ScriptErrorWithStack) Channel closing: too late to send/recv, messages will be lost
+
+1614757892512	Marionette	INFO	Stopped listening on port 49718
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614757896599	geckodriver	INFO	Listening on 127.0.0.1:50018
+1614757899627	mozrunner::runner	INFO	Running command: "C:\\P1614757900622	mozrunner::runner	INFO	Running command: "C:\\P1614757901627	mozrunner::runner	INFO	Running command: "C:\\P1614757902633	mozrunner::runner	INFO	Runniconsole.warn: SearchSettings: "get: No settings file exists,console.warn: SearchSettings: "get: No settings file exists,console.warn: SearchSettings: "get: No settings file16147579console.warn: SearchSettings: "get: No settings file1614757914507	Marionet1614757937251	Marionette	INFO	Stopped listening on port 50031614757944833	Marionette	INFO	Stopped listening on port 50049
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+el closing: too late to send/recv, messages will be lost
+
+el closing: too late to send/recv, messages will be lost
+
+=PContent::Msg_ScriptErrorWithStack) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A00D5,name=PContent::Msg_ScriptErrorWithStack) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A00D5,name=PContent::Msg_ScriptErrorWithStack) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A00D5,name=PContent::Msg_ScriptErrorWithStack) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A00D5,name=PContent::Msg_ScriptErrorWithStack) Channel closing: too late to send/recv, messages will be lost
+
+1614757938828	Marionette	INFO	Stopped listening on port 50080
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614757980193	geckodriver	INFO	Listening on 127.0.0.1:50334
+1614757983227	mozrunner::runner	INFO	Running command: "C:\\P1614757984227	mozrunner::runner	INFO	Running command: "C:\\P1614757985224	mozrunner::runner	INFO	Running command: "C:\\P1614757986240	mozrunner::runner	INFO	Runniconsole.warn: SearchSettings: "get: No settings file exists,console.warn: SearchSettings: "get: No settings file exists,console.warn: SearchSettings: "get: No settings file exists,console.warn: SearchSettings: "get: No settings file1614758001108	Marionet1614758035205	Marionette	INFO	Stopped listening on port 50353
+
+###!!! [Child][RunMessage] Error: Channel closing: too 1614758036530	Marionette	INFO	Stopped listening on port 50376
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+1614758037676	Marionette	INFO	Stopped listening on port 50396
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+nnel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A00D5,name=PContent::Msg_ScriptErrorWithStack) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A00D5,name=PContent::Msg_ScriptErrorWithStack) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A00D5,name=PContent::Msg_ScriptErrorWithStack) Channel closing: too late to send/recv, messages will be lost
+
+1614758037070	Marionette	INFO	Stopped listening on port 50387
+recv, messages will be lost
+
+1614758035279	Marionette	INFO	Stopped listening on port 50364
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614758043584	geckodriver	INFO	Listening on 127.0.0.1:50656
+1614758046645	mozrunner::runner	INFO	Running command: "C:\\P1614758047602	mozrunner::runner	INFO	Running command: "C:\\P1614758048599	mozrunner::runner	INFO	Running command: "C:\\P1614758049604	mozrunner::runner	INFO	Runniconsole.warn: SearchSettings: "get: No settings file exists,console.warn: SearchSettings: "get: No settings file16147580console.warn: SearchSettings: "get: No settings file exists,console.warn: SearchSettings: "get: No settings file1614758062473	Marionet1614758096685	Marionette	INFO	Stopped listening on port 50671614758097443	Marionette	INFO	Stopped listening on port 50681614758098091	Marionette	INFO	Stopped listening on port 50697
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+1614758099802	Marionette	INFO	Stopped listening on port 50719
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+topped listening on port 50711
+1614758229950	geckodriver	INFO	Listening on 127.0.0.1:51039
+1614758232984	mozrunner::runner	INFO	Running command: "C:\\P1614758233982	mozrunner::runner	INFO	Running command: "C:\\P1614758234993	mozrunner::runner	INFO	Running command: "C:\\P1614758236068	mozrunner::runner	INFO	Runniconsole.warn: SearchSettings: "get: No settings file exists,console.warn: SearchSettings: "get: No settings file exists,console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614758258184	Marionet1614758312384	Marionette	INFO	Stopped listening on port 5105
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A011C,name=PContent::Msg_RecordDiscardedData) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too la1console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"ContentParent: id=20710a67000","state":{"remoteTypePrefix":"file"},"filename":"/builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp","lineNumber":3500,"stack":["resource://gre/modules/nsAsyncShutdown.jsm:addBlocker:162"]}] Barrier: profile-before-change
+1614758334258	Marionette	INFO	Stopped listening on port 51079
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+N	TLS certificate errors will be igno1614758339386	Marionet1614758380989	Marionette	INFO	Stopped listening on port 51428
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ing on port 51451614758384011	Marionette	INFO	Stopped listening on port 51457
+ed listening on port 51438
+
+###!!! [C1614758384092	Marionette	INFO	Stopped listening on port 51468
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614758385288	geckodriver	INFO	Listening on 127.0.0.1:51782
+1614758388348	mozrunner::runner	INFO	Running command: "C:\\P1614758389295	mozrunner::runner	INFO	Running command: "C:\\P1614758390299	mozrunner::runner	INFO	Running command: "C:\\P1614758391306	mozrunner::runner	INFO	Runniconsole.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614758404467	Marionette	INFO	Listening on port 51802
+1614758404882console.warn: SearchSettings: "get: No settings file exists, new profile?"
+###!!! [Child][RunMessage] Error: Channel closing: too lat1614758493615	Marionette	INFO	Stopped listening on port 51811614758494658	Marionette	INFO	Stopped listening on port 51821614758495676	Marionette	INFO	Stopped listening on port 51831
+
+###!!! [Child][RunMessage] Error: Cha1614758497207	Marionette	INFO	Stopped listening on port 51844
+l closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A011C,name=PContent::Msg_RecordDiscardedData) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614758491387	Marionette	INFO	Stopped listening on port 51802
+1614758535924	geckodriver	INFO	Listening on 127.0.0.1:52319
+1614758538980	mozrunner::runner	INFO	Running command: "C:\\P1614758539954	mozrunner::runner	INFO	Running command: "C:\\P1614758540939	mozrunner::runner	INFO	Running command: "C:\\P1614758541937	mozrunner::runner	INFO	Runniconsole.warn: SearchSettings: "get: No settings file exists,console.warn: SearchSettings: "get: No settings file16147585console.warn: SearchSettings: "get: No settings file16147585console.warn: SearchSettings: "get: No settings file1614758560993	Marionet1614758636290	Marionette	INFO	Stopped listening on port 52341614758637206	Marionette	INFO	Stopped listening on port 52351614758638064	Marionette	INFO	Stopped listening on port 5236161
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+el closing: too late to send/recv, messages will be lost
+
+=PContent::Msg_ScriptErrorWithStack) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A00D5,name=PContent::Msg_ScriptErrorWithStack) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A00D5,name=PContent::Msg_ScriptErrorWithStack) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A00D5,name=PContent::Msg_ScriptErrorWithStack) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A00D5,name=PContent::Msg_ScriptErrorWithStack) Channel closing: too late to send/recv, messages will be lost
+
+1614758639677	Marionette	INFO	Stopped listening on port 52382
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614758641567	geckodriver	INFO	Listening on 127.0.0.1:52821
+1614758644640	mozrunner::runner	INFO	Running command: "C:\\P1614758645570	mozrunner::runner	INFO	Running command: "C:\\P1614758646585	mozrunner::runner	INFO	Running command: "C:\\P1614758647654	mozrunner::runner	INFO	Runniconsole.warn: SearchSettings: "get: No settings file exists,console.warn: SearchSettings: "get: No settings file exists,console.warn: SearchSettings: "get: No settings file1614758660129	Marionette	INFO	Listening on port 52850
+161471614758661796	Marionet1614758729682	Marionette	INFO	Stopped listening on port 52841614758730650	Marionette	INFO	Stopped listening on port 52851614758731620	Marionette	INFO	Stopped listening on port 52861614758732536	Marionette	INFO	Stopped listening on port 52876
+rors will be ignored for this session
+1614758733659	Marionette	INFO	Stopped listening on port 52885
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614758735886	geckodriver	INFO	Listening on 127.0.0.1:53317
+1614758738977	mozrunner::runner	INFO	Running command: "C:\\P1614758739866	mozrunner::runner	INFO	Running command: "C:\\P1614758740872	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.execonsole.warn: SearchSettings: "get: No settings file exists,console.warn: SearchSettings: "get: No settings file exists,JavaScript error: resource://activity-stream/lib/ASRouterNewTabHook.jsm, line 61: TypeError: this._router is null
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 573: uncaught exception: Object
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+terNewTabHook.jsm, line 61: TypeError: this._router is null
+console.warn: services.settconsole.warn: SearchService: "_init: abandoning init due to console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 422))
+JavaScript error: resource://gre/modules/DeferredTask.jsm, line 215: Error: Unable to arm timer, the object has been finalized.
+JavaScript error: resource://gre/modules/DeferredTask.jsm, line 215: Error: Unable to arm timer, the objeJavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 573: uncaught exception: Object
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://gre/modules/CrashManager.jsm, line 831: NotAllowedError: Shutting down and refusing additional I/O tasks
+nagerInternal._getProviderByName(...) is undefined"
+console.error: "Could not load engine wikipedia@search.mozilla.org: TypeError: AddonManagerInternal._getProviderByName(...) is undefined"
+console.error: "Could not load engine bing@search.mozilla.org: TypeError: AddonManagerInternal._getProviderByName(...) is undefined"
+console.error: "Could not load engine ddg@search.mozilla.org: TypeError: AddonManagerInternal._getProviderByName(...) is undefined"
+console.warn: SearchService: "_init: abandoning init due to shutting down"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 573: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 573: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 573: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 573: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 573: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 573: uncaught exception: Object
+1614758802391	geckodriver	INFO	Listening on 127.0.0.1:53418
+1614758805432	mozrunner::runner	INFO	Running command: "C:\\P1614758806437	mozrunner::runner	INFO	Running command: "C:\\P1614758807565	mozrunner::runner	INFO	Running command: "C:\\P1614758808569	mozrunner::runner	INFO	Runniconsole.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 775))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 422))
+console.warn: SearchSettings: "get: No settings file exis1614758833883	Marionet1614758892186	Marionette	INFO	Stopped listening on port 53444
+##!!! [Child][MessageChannel] Error: (msgtype=0x3A011C,na1614758894659	Marionette	INFO	Stopped listening on port 53466
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614758896582	geckodriver	INFO	Listening on 127.0.0.1:53935
+1614758899643	mozrunner::runner	INFO	Running command: "C:\\P1614758900591	mozrunner::runner	INFO	Running command: "C:\\P1614758901589	mozrunner::runner	INFO	Running command: "C:\\P1614758902591	mozrunner::runner	INFO	Runniconsole.warn: SearchSettings: "get: No settings file exists,console.warn: SearchSettings: "get: No settings fileconsole.console.warn: SearchSettings: "get: No settings file exists,console.warn: SearchSettings: "get: No settings file1614758915817	Marionette	INFO	Listening on port 53conso161471614758918512	Marionet1614759028279	Marionette	INFO	Stopped listening on port 53961614759029183	Marionette	INFO	Stopped listening on port 53971614759029952	Marionette	INFO	Stopped listening on port 53989
+ [Child][RunMessage] Error: Channel clo1614759030749	Marionette	INFO	Stopped listening on port 54000
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614759050267	Marionette	INFO	Stopped listening on port 53955
+1614759051895	geckodriver	INFO	Listening on 127.0.0.1:54439
+1614759054978	mozrunner::runner	INFO	Running command: "C:\\P1614759055881	mozrunner::runner	INFO	Running command: "C:\\P1614759056887	mozrunner::runner	INFO	Running command: "C:\\P1614759057879	mozrunner::runner	INFO	Runniconsole.warn: SearchSettings: "get: No settings file exists,console.warn: SearchSettings: "get: No settings file16147590console.warn: SearchSettings: "get: No settings file16147590console.warn: SearchSettings: "get: No settings file1614759071592	Marionet1614759146670	Marionette	INFO	Stopped listening on port 54451614759147676	Marionette	INFO	Stopped listening on port 54469
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+topped listening on port 54479
+ion.jsm", 422))
+1614759071614759151895	Marionette	INFO	Stopped listening on port 54503
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+topped listening on port 54492
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614759317817	geckodriver	INFO	Listening on 127.0.0.1:54971
+1614759320860	mozrunner::runner	INFO	Running command: "C:\\P1614759321811	mozrunner::runner	INFO	Running command: "C:\\P1614759322811	mozrunner::runner	INFO	Running command: "C:\\P1614759323951	mozrunner::runner	INFO	Runniconsole.warn: SearchSettings: "get: No settings file exists,console.warn: SearchSettings: "get: No settings file16147593console.warn: SearchSettings: "get: No settings file exists,console.warn: SearchSettings: "get: No settings file1614759340056	Marionet1614759400815	Marionette	INFO	Stopped listening on port 54991
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+el closing: too late to send/recv, messages will be lost
+
+ing on port 55023
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+=PContent::Msg_ScriptErrorWithStack) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A00D5,name=PContent::Msg_ScriptErrorWithStack) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A00D5,name=PContent::Msg_ScriptErrorWithStack) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A00D5,name=PContent::Msg_ScriptErrorWithStack) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A00D5,name=PContent::Msg_ScriptErrorWithStack) Channel closing: too late to send/recv, messages will be lost
+
+1614759404442	Marionette	INFO	Stopped listening on port 55034
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614759494504	geckodriver	INFO	Listening on 127.0.0.1:55470
+1614759497583	mozrunner::runner	INFO	Running command: "C:\\P1614759498512	mozrunner::runner	INFO	Running command: "C:\\P1614759499520	mozrunner::runner	INFO	Running command: "C:\\P1614759500529	mozrunner::runner	INFO	Runniconsole.warn: SearchSettings: "get: No settings file exists,console.warn: SearchSettings: "get: No settings file exists,console.warn: SearchSettings: "get: No settings file exists,console.warn: SearchSettings: "get: No settings file1614759511864	Marionet1614759583990	Marionette	INFO	Stopped listening on port 55491614759584885	Marionette	INFO	Stopped listening on port 55491614759585757	Marionette	INFO	Stopped listening on port 55511
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+1614759587439	Marionette	INFO	Stopped listening on port 55537
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+nnel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A00D5,name=PContent::Msg_ScriptErrorWithStack) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A00D5,name=PContent::Msg_ScriptErrorWithStack) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A00D5,name=PContent::Msg_ScriptErrorWithStack) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614759586652	Marionette	INFO	Stopped listening on port 55526
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614759680338	geckodriver	INFO	Listening on 127.0.0.1:55997
+1614759683484	mozrunner::runner	INFO	Running command: "C:\\P1614759684361	mozrunner::runner	INFO	Running command: "C:\\P1614759685371	mozrunner::runner	INFO	Running command: "C:\\P1614759686339	mozrunner::runner	INFO	Runniconsole.warn: SearchSettings: "get: No settings file exists,console.warn: SearchSettings: "get: No settings file exists,console.warn: SearchSettings: "get: No settings file16147596console.warn: SearchSettings: "get: No settings file1614759698326	Marionet1614762317269	Marionette	INFO	Stopped listening on port 56011614762318265	Marionette	INFO	Stopped listening on port 56021614762319415	Marionette	INFO	Stopped listening on port 56031614762320352	Marionette	INFO	Stopped listening on port 56050
+
+###!!! [Child][RunMessage] Error: Cha1614762321032	Marionette	INFO	Stopped listening on port 56059
+1614762659816	geckodriver	INFO	Listening on 127.0.0.1:56658
+1614762662865	mozrunner::runner	INFO	Running command: "C:\\P1614762663852	mozrunner::runner	INFO	Running command: "C:\\P1614762664842	mozrunner::runner	INFO	Running command: "C:\\P1614762665828	mozrunner::runner	INFO	Runniconsole.warn: SearchSettings: "get: No settings file exists,console.warn: SearchSettings: "get: No settings file exists,console.warn: SearchSettings: "get: No settings file exists,console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown moconsole.waconsole.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetconsole.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetc1614762724941	Marionette	INFO	Stopped listening on port 56671614762729163	Marionette	INFO	Stopped listening on port 56690
+
+###!!! [Child][RunMessage] Error: Channel closing: too 1614762730950	Marionette	INFO	Stopped listening on port 56711
+
+###!!! [Child][RunMessage] Error: Cha1614762731928	Marionette	INFO	Stopped listening on port 56720
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614762749463	geckodriver	INFO	Listening on 127.0.0.1:56969
+1614762752525	mozrunner::runner	INFO	Running command: "C:\\P1614762753477	mozrunner::runner	INFO	Running command: "C:\\P1614762754470	mozrunner::runner	INFO	Running command: "C:\\P1614762755464	mozrunner::runner	INFO	Runniconsole.warn: SearchSettings: "get: No settings file exists,console.warn: SearchSettings: "get: No settings file exists,console.warn: SearchSettings: "get: No settings file exists,console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown moconsole.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetc1614762872380	Marionette	INFO	Stopped listening on port 56981614762873188	Marionette	INFO	Stopped listening on port 57001614762874076	Marionette	INFO	Stopped listening on port 57011614762874799	Marionette	INFO	Stopped listening on port 57024
+rors will be ignored for this session
+1614762875679	Marionette	INFO	Stopped listening on port 57031
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614762912860	geckodriver	INFO	Listening on 127.0.0.1:57312
+1614762915895	mozrunner::runner	INFO	Running command: "C:\\P1614762916876	mozrunner::runner	INFO	Running command: "C:\\P1614762917869	mozrunner::runner	INFO	Running command: "C:\\P1614762918879	mozrunner::runner	INFO	Runniconsole.warn: SearchSettings: "get: No settings file exists,console.warn: SearchSettings: "get: No settings file16147629console.warn: SearchSettings: "get: No settings file exists,console.warn: SearchSettings: "get: No settings file1614762936233	Marionet1614763028820	Marionette	INFO	Stopped listening on port 57331614763029503	Marionette	INFO	Stopped listening on port 57343
+aScript error: resource://devtools/client/inspector/rules1614763032882	Marionette	INFO	Stopped listening on port 57364
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+1614763033830	Marionette	INFO	Stopped listening on port 57376
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ be lost
+
+1614763994610	geckodriver	INFO	Listening on 127.0.0.1:58076
+1614763997664	mozrunner::runner	INFO	Running command: "C:\\P1614763998613	mozrunner::runner	INFO	Running command: "C:\\P1614763999611	mozrunner::runner	INFO	Running command: "C:\\P1614764000622	mozrunner::runner	INFO	Runniconsole.warn: SearchSettings: "get: No settings file exists,console.warn: SearchSettings: "get: No settings file1614764015585	Marionette	INFO	Listening on port 58097
+1614716147640console.warn: SearchSettings: "get: No settings file exists, new profile?"1614764119356	Marionette	INFO	Stopped listening on port 58097
+4764075171	Marionette	INFO	Stopped listening on port 5810161
+###!!! [Child][RunMessage] Error: Channel closing: too lat
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+14764076764	Marionette	INFO	Stopped listening on port 581361614764077901	Marionette	INFO	Stopped listening on port 58127
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614764159241	geckodriver	INFO	Listening on 127.0.0.1:58603
+1614764162339	mozrunner::runner	INFO	Running command: "C:\\P1614764163287	mozrunner::runner	INFO	Running command: "C:\\P1614764164244	mozrunner::runner	INFO	Running command: "C:\\P1614764165239	mozrunner::runner	INFO	Runniconsole.warn: SearchSettings: "get: No settings file exists,console.warn: SearchSettings: "get: No settings file16147641console.warn: SearchSettings: "get: No settings file16147641console.warn: SearchSettings: "get: No settings file1614764177695	Marionet1614764258844	Marionette	INFO	Stopped listening on port 58621614764259635	Marionette	INFO	Stopped listening on port 58631614764260532	Marionette	INFO	Stopped listening on port 58641614764264656	Marionette	INFO	Stopped listening on port 58658
+e to send/recv, messages will be lost
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A00D5,name=PContent::Msg_ScriptErrorWithStack) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A00D5,name=PContent::Msg_ScriptErrorWithStack) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A00D5,name=PContent::Msg_ScriptErrorWithStack) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A011C,name=PContent::Msg_RecordDiscardedData) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A00D5,name=PContent::Msg_ScriptErrorWithStack) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A00D5,name=PContent::Msg_ScriptErrorWithStack) Channel closing: too late to send/recv, messages will be lost
+
+1614764265445	Marionette	INFO	Stopped listening on port 58666
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
